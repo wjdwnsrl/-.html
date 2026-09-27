@@ -9,4 +9,4 @@
   <li>AI 활용</li>
 </ul>
  
-<p><a href="mailto:hello@example.com">이메일 보내기</a></p>
+<p><a href="jungjk2018@naver.com">이메일 보내기</a></p>
